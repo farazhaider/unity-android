@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--
+    <item name="material_blue_500" type="color">#2196F3</item>
+    <item name="material_blue_700" type="color">#2196F3</item>
+    <item name="material_green_A200" type="color">#FF99CC00</item>-->
+    <item name="bkg_card" type="color">#2196F3</item>
+    <color name="translucent_black">#FFFFFF</color>
+</resources>
